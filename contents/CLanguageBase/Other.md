@@ -315,6 +315,6 @@ JAVA有两特性：
 安全性：自动回收内存中不常用的命令垃圾，防止内存溢出。
 
 
->Contributes: xxx
+>Contributes: oliveruo
 >
 >Reviewers : Hollis, Kevin Lee
